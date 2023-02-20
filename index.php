@@ -1,4 +1,4 @@
 <?php
-print "Welcome to first php page";
+print "Welcome to second php page";
 
 ?>
